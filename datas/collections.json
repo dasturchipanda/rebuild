@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Metan Econamic",
+    "image": "../../public/images/example1.jpg",
+    "reductor": "TOMASETTO AT12 STANDARD",
+    "forsunka": "Форсунка AC W-03 4-CYL KPL EXPORT",
+    "elekronika": "STAG 500-4 BASIC",
+    "ballon": "Газовый баллон 90 литров",
+    "multiklapin": "Мультиклапан AT00 Sprint h.220/225- 30° D8",
+    "filter": "Одноразовый фильтр",
+    "extra": "Пастафка,кран для газового баллона, Шланг FAGUMIT 4/5/8/11 mm , Фитинг ФАРО 8д угилавое",
+    "type": "Metan"
+  },
+  {
+    "id": 2,
+    "name": "Propan Econamic",
+    "image": "../../public/images/example2.jpg",
+    "reductor": "TOMASETTO AT12 STANDARD",
+    "forsunka": "Форсунка AC W-03 4-CYL KPL EXPORT",
+    "elekronika": "STAG 500-4 BASIC",
+    "ballon": "Газовый баллон 90 литров",
+    "multiklapin": "Мультиклапан AT00 Sprint h.220/225- 30° D8",
+    "filter": "Одноразовый фильтр",
+    "extra": "Пастафка,кран для газового баллона, Шланг FAGUMIT 4/5/8/11 mm , Фитинг ФАРО 8д угилавое",
+    "type": "Propan"
+  }
+]

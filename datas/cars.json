@@ -1,0 +1,826 @@
+[
+      {
+        "id": "18",
+        "brand_id": "11",
+        "name": "ONIX",
+        "image": "cars/July2024/jqv7fe54tD4Oq4T2Bjgy.png",
+        "created_at": "2024-07-18 08:36:32",
+        "updated_at": "2024-07-18 08:36:32"
+      },
+      {
+        "id": "19",
+        "brand_id": "11",
+        "name": "Tahoe",
+        "image": "cars/July2024/aCG3W1JM1aM6f6823CrP.png",
+        "created_at": "2024-07-18 10:18:08",
+        "updated_at": "2024-07-18 10:25:50"
+      },
+      {
+        "id": "20",
+        "brand_id": "11",
+        "name": "Matiz",
+        "image": "cars/July2024/qfvf4u4qYGEOp9COaf75.png",
+        "created_at": "2024-07-18 10:19:43",
+        "updated_at": "2024-07-18 10:19:43"
+      },
+      {
+        "id": "21",
+        "brand_id": "11",
+        "name": "Nexia 2",
+        "image": "cars/July2024/33po0ktdMdTORn4r2ngq.png",
+        "created_at": "2024-07-18 10:23:11",
+        "updated_at": "2024-07-18 10:23:11"
+      },
+      {
+        "id": "22",
+        "brand_id": "11",
+        "name": "Nexia 3",
+        "image": "cars/July2024/oxDHEwfDnXMCd6GJzIy0.png",
+        "created_at": "2024-07-18 10:23:32",
+        "updated_at": "2024-07-18 10:23:48"
+      },
+      {
+        "id": "24",
+        "brand_id": "11",
+        "name": "Spark",
+        "image": "cars/July2024/1zsrjLnJMnfWgQmv9jBB.png",
+        "created_at": "2024-07-18 10:26:35",
+        "updated_at": "2024-07-18 10:26:35"
+      },
+      {
+        "id": "25",
+        "brand_id": "11",
+        "name": "Cobalt",
+        "image": "cars/July2024/IG92CcBRxch7OCAVFORb.png",
+        "created_at": "2024-07-18 10:30:13",
+        "updated_at": "2024-07-18 10:30:13"
+      },
+      {
+        "id": "26",
+        "brand_id": "11",
+        "name": "Lacetti",
+        "image": "cars/July2024/rjfUQpNokvTJWdVy3lHp.png",
+        "created_at": "2024-07-18 10:32:13",
+        "updated_at": "2024-07-18 10:32:13"
+      },
+      {
+        "id": "27",
+        "brand_id": "11",
+        "name": "Damas",
+        "image": "cars/July2024/MrGViFkuYl7IfqlqeSZr.png",
+        "created_at": "2024-07-18 10:33:06",
+        "updated_at": "2024-07-18 10:33:06"
+      },
+      {
+        "id": "28",
+        "brand_id": "11",
+        "name": "Malibu",
+        "image": "cars/July2024/lPjSbsT8lhb1vIgwVk0J.png",
+        "created_at": "2024-07-18 10:34:17",
+        "updated_at": "2024-07-18 10:34:17"
+      },
+      {
+        "id": "29",
+        "brand_id": "11",
+        "name": "Malibu 2",
+        "image": "cars/July2024/iSBMDvVyF41CnphMRgLK.png",
+        "created_at": "2024-07-18 10:35:42",
+        "updated_at": "2024-07-18 10:35:53"
+      },
+      {
+        "id": "31",
+        "brand_id": "11",
+        "name": "Captiva 2.4",
+        "image": "cars/July2024/biziv0VOWMtoI5ybtkRo.webp",
+        "created_at": "2024-07-31 10:07:21",
+        "updated_at": "2024-08-29 13:37:27"
+      },
+      {
+        "id": "32",
+        "brand_id": "17",
+        "name": "K-porter furgon",
+        "image": "cars/July2024/i9kOviv3Cp3jwWTyNLVL.png",
+        "created_at": "2024-07-31 10:14:11",
+        "updated_at": "2024-07-31 10:14:11"
+      },
+      {
+        "id": "33",
+        "brand_id": "17",
+        "name": "K-porter",
+        "image": "cars/July2024/hxznJ6cF7Z5JmU2wE0oT.jpg",
+        "created_at": "2024-07-31 10:14:58",
+        "updated_at": "2024-07-31 10:14:58"
+      },
+      {
+        "id": "34",
+        "brand_id": "17",
+        "name": "Ferma",
+        "image": "cars/July2024/izroEgzmfsrI1BhzBdAa.jpg",
+        "created_at": "2024-07-31 10:17:12",
+        "updated_at": "2024-07-31 10:17:12"
+      },
+      {
+        "id": "35",
+        "brand_id": "17",
+        "name": "Porter Ferma",
+        "image": "cars/July2024/ONXPbFIn6P9enUdpPYvn.jpg",
+        "created_at": "2024-07-31 10:17:49",
+        "updated_at": "2024-07-31 10:17:49"
+      },
+      {
+        "id": "36",
+        "brand_id": "17",
+        "name": "porter",
+        "image": "cars/July2024/dIHPeMfJplx43M2iQ9Fz.jpg",
+        "created_at": "2024-07-31 10:18:17",
+        "updated_at": "2024-07-31 10:18:17"
+      },
+      {
+        "id": "37",
+        "brand_id": "17",
+        "name": "porter Furgon",
+        "image": "cars/July2024/tSZipl1B5RE6TejhvctY.jpg",
+        "created_at": "2024-07-31 10:18:51",
+        "updated_at": "2024-07-31 10:18:51"
+      },
+      {
+        "id": "38",
+        "brand_id": "17",
+        "name": "Furgon",
+        "image": "cars/July2024/MFazuIZNkPLVyleursGj.jpg",
+        "created_at": "2024-07-31 10:23:12",
+        "updated_at": "2024-07-31 10:23:12"
+      },
+      {
+        "id": "39",
+        "brand_id": "17",
+        "name": "Labo",
+        "image": "cars/July2024/rFZiStnEaZzO8pykiLKt.jpg",
+        "created_at": "2024-07-31 10:24:03",
+        "updated_at": "2024-07-31 10:24:03"
+      },
+      {
+        "id": "40",
+        "brand_id": "17",
+        "name": "S65",
+        "image": "cars/July2024/zmqtdzNtU7jzDTjWlhWx.png",
+        "created_at": "2024-07-31 10:24:37",
+        "updated_at": "2024-07-31 10:24:37"
+      },
+      {
+        "id": "41",
+        "brand_id": "17",
+        "name": "S64",
+        "image": "cars/July2024/bBozGTqOu7uurLC7vkSg.jpg",
+        "created_at": "2024-07-31 10:25:45",
+        "updated_at": "2024-07-31 10:25:45"
+      },
+      {
+        "id": "42",
+        "brand_id": "17",
+        "name": "Uni-K",
+        "image": "cars/July2024/pUHTyrTxRB1jodoFUnq9.png",
+        "created_at": "2024-07-31 10:26:26",
+        "updated_at": "2024-07-31 10:26:26"
+      },
+      {
+        "id": "43",
+        "brand_id": "17",
+        "name": "CS55 Plus",
+        "image": "cars/July2024/J51J45u4u5yCudmYMO84.png",
+        "created_at": "2024-07-31 10:27:22",
+        "updated_at": "2024-07-31 10:27:22"
+      },
+      {
+        "id": "44",
+        "brand_id": "18",
+        "name": "Jac x200",
+        "image": "cars/July2024/gqiuebk0MaSDcvrxVB01.png",
+        "created_at": "2024-07-31 10:34:37",
+        "updated_at": "2024-07-31 10:34:37"
+      },
+      {
+        "id": "45",
+        "brand_id": "18",
+        "name": "Jac T8",
+        "image": "cars/July2024/gRRbxmbpg97yP4IFP2t0.webp",
+        "created_at": "2024-07-31 10:35:04",
+        "updated_at": "2024-07-31 10:35:04"
+      },
+      {
+        "id": "46",
+        "brand_id": "18",
+        "name": "Jac M-4",
+        "image": "cars/July2024/6uuTTxutGVxYAPilclq7.png",
+        "created_at": "2024-07-31 10:36:29",
+        "updated_at": "2024-07-31 10:36:29"
+      },
+      {
+        "id": "47",
+        "brand_id": "18",
+        "name": "Jac M-3",
+        "image": "cars/July2024/g4CLYkzVKZoYmecuHRF3.png",
+        "created_at": "2024-07-31 10:36:42",
+        "updated_at": "2024-07-31 10:37:03"
+      },
+      {
+        "id": "48",
+        "brand_id": "18",
+        "name": "Jac Sunray",
+        "image": "cars/July2024/6jGgUlobL2NFmajN2iod.png",
+        "created_at": "2024-07-31 10:37:55",
+        "updated_at": "2024-07-31 10:37:55"
+      },
+      {
+        "id": "49",
+        "brand_id": "18",
+        "name": "Jac J7",
+        "image": "cars/July2024/EVlxqjGX6OdAg5HCDBxp.png",
+        "created_at": "2024-07-31 10:38:59",
+        "updated_at": "2024-07-31 10:38:59"
+      },
+      {
+        "id": "50",
+        "brand_id": "18",
+        "name": "Jac Js-6",
+        "image": "cars/July2024/FYwHPij4yTcbu43lXrCd.png",
+        "created_at": "2024-07-31 10:39:30",
+        "updated_at": "2024-07-31 10:39:30"
+      },
+      {
+        "id": "51",
+        "brand_id": "18",
+        "name": "Jac Js-8",
+        "image": "cars/July2024/itV64V4BvG2oOSoXFdUk.png",
+        "created_at": "2024-07-31 10:40:00",
+        "updated_at": "2024-07-31 10:40:00"
+      },
+      {
+        "id": "52",
+        "brand_id": "16",
+        "name": "Tiggo8 PRO MAX",
+        "image": "cars/July2024/0c4TmXhbjXqbXiwuM7Yu.jpg",
+        "created_at": "2024-07-31 10:43:28",
+        "updated_at": "2024-07-31 10:47:22"
+      },
+      {
+        "id": "53",
+        "brand_id": "16",
+        "name": "Tiggo8 PRO",
+        "image": "cars/July2024/nY1qxPxNgHc98L78v4ys.jpg",
+        "created_at": "2024-07-31 10:43:43",
+        "updated_at": "2024-07-31 10:48:55"
+      },
+      {
+        "id": "54",
+        "brand_id": "16",
+        "name": "Tiggo7 PRO",
+        "image": "cars/July2024/UQlhWgtrqP19u8V0WLRd.jpg",
+        "created_at": "2024-07-31 10:43:54",
+        "updated_at": "2024-07-31 10:48:07"
+      },
+      {
+        "id": "55",
+        "brand_id": "16",
+        "name": "Tiggo6 PRO",
+        "image": "cars/July2024/QDMot7v5c13wphq7zw5W.png",
+        "created_at": "2024-07-31 10:44:10",
+        "updated_at": "2024-07-31 10:46:44"
+      },
+      {
+        "id": "56",
+        "brand_id": "15",
+        "name": "Kia Bongo",
+        "image": "cars/July2024/CXgliidVOrap9JRV3k08.png",
+        "created_at": "2024-07-31 10:50:48",
+        "updated_at": "2024-07-31 10:50:48"
+      },
+      {
+        "id": "57",
+        "brand_id": "15",
+        "name": "Kia K8",
+        "image": "cars/July2024/S3IGbJmNJigCO0jsTnk6.png",
+        "created_at": "2024-07-31 10:51:31",
+        "updated_at": "2024-07-31 10:51:31"
+      },
+      {
+        "id": "59",
+        "brand_id": "15",
+        "name": "Kia Carnival",
+        "image": "cars/July2024/IncjNhA1mGUAMACjh2ne.png",
+        "created_at": "2024-07-31 10:56:53",
+        "updated_at": "2024-08-14 05:27:50"
+      },
+      {
+        "id": "61",
+        "brand_id": "15",
+        "name": "Kia Sportage",
+        "image": "cars/July2024/cCUUjOWoMrLE4nfsqBob.png",
+        "created_at": "2024-07-31 10:57:41",
+        "updated_at": "2024-07-31 10:57:41"
+      },
+      {
+        "id": "62",
+        "brand_id": "15",
+        "name": "Kia Cerato",
+        "image": "cars/July2024/9mPdFRAuY2zsOnKSe4DM.png",
+        "created_at": "2024-07-31 10:58:13",
+        "updated_at": "2024-07-31 10:58:13"
+      },
+      {
+        "id": "63",
+        "brand_id": "15",
+        "name": "Kia K9",
+        "image": "cars/July2024/J7lIQwuPRl1S7cf79CN2.png",
+        "created_at": "2024-07-31 10:58:45",
+        "updated_at": "2024-07-31 10:58:45"
+      },
+      {
+        "id": "64",
+        "brand_id": "15",
+        "name": "Kia Seltos",
+        "image": "cars/July2024/OLabIUMXxcB9puFnSC1b.png",
+        "created_at": "2024-07-31 10:59:18",
+        "updated_at": "2024-07-31 10:59:18"
+      },
+      {
+        "id": "66",
+        "brand_id": "15",
+        "name": "Kia Sorento",
+        "image": "cars/July2024/pOtrMnua0OXioVH3fgX1.png",
+        "created_at": "2024-07-31 11:00:02",
+        "updated_at": "2024-07-31 11:00:02"
+      },
+      {
+        "id": "67",
+        "brand_id": "15",
+        "name": "Kia Sonet",
+        "image": "cars/July2024/UuIKfvZCJYYqYVB3IG1o.png",
+        "created_at": "2024-07-31 11:00:21",
+        "updated_at": "2024-07-31 11:00:21"
+      },
+      {
+        "id": "68",
+        "brand_id": "15",
+        "name": "Kia Carens",
+        "image": "cars/July2024/rSU1EgyQ2OhMVCnf6AMW.png",
+        "created_at": "2024-07-31 11:00:43",
+        "updated_at": "2024-07-31 11:00:43"
+      },
+      {
+        "id": "69",
+        "brand_id": "12",
+        "name": "Elentra",
+        "image": "cars/July2024/3P4XRLFbTBDUYoGudPmK.png",
+        "created_at": "2024-07-31 11:03:03",
+        "updated_at": "2024-07-31 11:03:03"
+      },
+      {
+        "id": "70",
+        "brand_id": "12",
+        "name": "Sonata",
+        "image": "cars/July2024/FmPa70KtAa7XsSi561gr.png",
+        "created_at": "2024-07-31 11:04:11",
+        "updated_at": "2024-07-31 11:04:11"
+      },
+      {
+        "id": "71",
+        "brand_id": "12",
+        "name": "Tucson",
+        "image": "cars/July2024/R6uK3lcEgp7MXNLCMSXw.png",
+        "created_at": "2024-07-31 11:04:42",
+        "updated_at": "2024-07-31 11:04:42"
+      },
+      {
+        "id": "72",
+        "brand_id": "12",
+        "name": "Santafe",
+        "image": "cars/July2024/YugyNLuneo78DLPGtwfa.png",
+        "created_at": "2024-07-31 11:05:14",
+        "updated_at": "2024-08-14 05:34:07"
+      },
+      {
+        "id": "73",
+        "brand_id": "12",
+        "name": "Palisade",
+        "image": "cars/July2024/mJ6RQr6Iz4QBXvasHWal.png",
+        "created_at": "2024-07-31 11:05:45",
+        "updated_at": "2024-07-31 11:05:45"
+      },
+      {
+        "id": "75",
+        "brand_id": "19",
+        "name": "Actros",
+        "image": "cars/August2024/g0VCCgBKu6AAz6o4MTly.jpg",
+        "created_at": "2024-08-05 06:36:02",
+        "updated_at": "2024-08-05 06:36:02"
+      },
+      {
+        "id": "76",
+        "brand_id": "19",
+        "name": "Arocs",
+        "image": "cars/August2024/WhA9w6MoNGabI7o3ulvF.jpg",
+        "created_at": "2024-08-05 06:36:31",
+        "updated_at": "2024-08-05 06:36:31"
+      },
+      {
+        "id": "77",
+        "brand_id": "19",
+        "name": "Atego",
+        "image": "cars/August2024/h27uhI82rXWabZFCtYyJ.jpg",
+        "created_at": "2024-08-05 06:36:56",
+        "updated_at": "2024-08-05 06:38:01"
+      },
+      {
+        "id": "78",
+        "brand_id": "19",
+        "name": "Spinner Furgon",
+        "image": "cars/August2024/NtmQoz0CzD36mKXhtB49.png",
+        "created_at": "2024-08-05 06:38:25",
+        "updated_at": "2024-08-05 06:38:25"
+      },
+      {
+        "id": "79",
+        "brand_id": "19",
+        "name": "Sprinter",
+        "image": "cars/August2024/5vvBEVDv3KKJ1ZnR1SpA.png",
+        "created_at": "2024-08-05 06:41:01",
+        "updated_at": "2024-08-05 06:41:01"
+      },
+      {
+        "id": "80",
+        "brand_id": "19",
+        "name": "Sprinter",
+        "image": "cars/August2024/8MnTYHaTPsE7kynxaGzA.png",
+        "created_at": "2024-08-05 06:41:39",
+        "updated_at": "2024-08-05 06:41:39"
+      },
+      {
+        "id": "81",
+        "brand_id": "19",
+        "name": "Sprinter фургон",
+        "image": "cars/August2024/MrLjx02kFataugkpbAMd.png",
+        "created_at": "2024-08-05 06:42:19",
+        "updated_at": "2024-08-05 06:42:31"
+      },
+      {
+        "id": "82",
+        "brand_id": "19",
+        "name": "Sprinter фургон",
+        "image": "cars/August2024/K61umindrMlXZQ4Y7x2V.png",
+        "created_at": "2024-08-05 06:44:59",
+        "updated_at": "2024-08-05 06:44:59"
+      },
+      {
+        "id": "83",
+        "brand_id": "19",
+        "name": "Бортовая",
+        "image": "cars/August2024/iUCY4f7cXJnKQnY9VFCR.png",
+        "created_at": "2024-08-05 06:45:38",
+        "updated_at": "2024-08-05 06:45:38"
+      },
+      {
+        "id": "84",
+        "brand_id": "19",
+        "name": "Vito Фургон",
+        "image": "cars/August2024/qjjkG9Da36FYzze5lQMR.png",
+        "created_at": "2024-08-05 06:46:20",
+        "updated_at": "2024-08-05 06:46:20"
+      },
+      {
+        "id": "85",
+        "brand_id": "19",
+        "name": "Микроавтобус",
+        "image": "cars/August2024/84WwEG83Lk22Pz9S5Zhg.png",
+        "created_at": "2024-08-05 06:47:21",
+        "updated_at": "2024-08-05 06:47:21"
+      },
+      {
+        "id": "86",
+        "brand_id": "19",
+        "name": "eCitaro",
+        "image": "cars/August2024/xVzTUDJCZwuKv9J4skzW.jpg",
+        "created_at": "2024-08-05 06:48:02",
+        "updated_at": "2024-08-05 06:48:02"
+      },
+      {
+        "id": "87",
+        "brand_id": "19",
+        "name": "Connecto",
+        "image": "cars/August2024/nHiYvaX90iciTGV0bFBL.jpg",
+        "created_at": "2024-08-05 06:48:35",
+        "updated_at": "2024-08-05 06:48:35"
+      },
+      {
+        "id": "88",
+        "brand_id": "19",
+        "name": "Turismo",
+        "image": "cars/August2024/R7KIVUqIaxCcgp8egmmu.jpg",
+        "created_at": "2024-08-05 06:49:06",
+        "updated_at": "2024-08-05 06:49:06"
+      },
+      {
+        "id": "89",
+        "brand_id": "19",
+        "name": "Intouro",
+        "image": "cars/August2024/yhN4932KZYWyCADWTVRm.jpg",
+        "created_at": "2024-08-05 06:49:40",
+        "updated_at": "2024-08-05 06:49:40"
+      },
+      {
+        "id": "90",
+        "brand_id": "21",
+        "name": "Jetour T2",
+        "image": "cars/August2024/E0n0qi7ENkHE8AJmv3kF.png",
+        "created_at": "2024-08-13 11:11:10",
+        "updated_at": "2024-08-13 11:11:10"
+      },
+      {
+        "id": "91",
+        "brand_id": "21",
+        "name": "Jetour Dashing",
+        "image": "cars/August2024/sBqDSO0lTEG8w2HArSIo.png",
+        "created_at": "2024-08-13 11:11:41",
+        "updated_at": "2024-08-13 11:11:41"
+      },
+      {
+        "id": "92",
+        "brand_id": "21",
+        "name": "Jetour X70 plus",
+        "image": "cars/August2024/0QxfV6vXSvJu9MaDFqdF.png",
+        "created_at": "2024-08-13 11:12:20",
+        "updated_at": "2024-08-13 11:12:20"
+      },
+      {
+        "id": "93",
+        "brand_id": "21",
+        "name": "Jetour X70",
+        "image": "cars/August2024/FaH0qUimPYo0AB3xcCGg.png",
+        "created_at": "2024-08-13 11:13:41",
+        "updated_at": "2024-08-13 11:13:41"
+      },
+      {
+        "id": "94",
+        "brand_id": "21",
+        "name": "Jetour X90",
+        "image": "cars/August2024/BSwTebufFfWFcdaNvTIi.png",
+        "created_at": "2024-08-13 11:14:15",
+        "updated_at": "2024-08-14 05:06:42"
+      },
+      {
+        "id": "95",
+        "brand_id": "13",
+        "name": "BYD Song Plus DM-I",
+        "image": "cars/August2024/u7xMDTWW5Fpf0zdVC9QK.png",
+        "created_at": "2024-08-14 05:05:41",
+        "updated_at": "2024-08-14 05:08:48"
+      },
+      {
+        "id": "96",
+        "brand_id": "21",
+        "name": "Jetour X95",
+        "image": "cars/August2024/3gprSYNZHb6cVaVdjwYV.png",
+        "created_at": "2024-08-14 05:12:35",
+        "updated_at": "2024-08-14 05:12:35"
+      },
+      {
+        "id": "97",
+        "brand_id": "13",
+        "name": "BYD Chazor",
+        "image": "cars/August2024/XIp1FmKWgI1uEimQC1de.webp",
+        "created_at": "2024-08-14 05:15:04",
+        "updated_at": "2024-08-14 05:15:04"
+      },
+      {
+        "id": "98",
+        "brand_id": "22",
+        "name": "Shineray T30",
+        "image": "cars/August2024/YsyBoY9KRtkkpsZL6BzF.png",
+        "created_at": "2024-08-14 05:20:45",
+        "updated_at": "2024-08-14 05:20:45"
+      },
+      {
+        "id": "99",
+        "brand_id": "22",
+        "name": "Shineray T32",
+        "image": "cars/August2024/2iPv5bdNKxwf3RhPwT4h.png",
+        "created_at": "2024-08-14 05:22:50",
+        "updated_at": "2024-08-14 05:22:50"
+      },
+      {
+        "id": "100",
+        "brand_id": "23",
+        "name": "Honda Crider",
+        "image": "cars/August2024/EfMPuPeHtREZ3pFMZ37O.jpg",
+        "created_at": "2024-08-14 05:25:21",
+        "updated_at": "2024-08-14 05:25:21"
+      },
+      {
+        "id": "101",
+        "brand_id": "15",
+        "name": "Kia K5",
+        "image": "cars/August2024/iMV61iTeyLQmA8rllEmJ.jpeg",
+        "created_at": "2024-08-14 05:26:57",
+        "updated_at": "2024-08-26 11:00:20"
+      },
+      {
+        "id": "102",
+        "brand_id": "15",
+        "name": "Kia Stinger",
+        "image": "cars/August2024/SuqzhtANyP6rQOX4Z3MK.png",
+        "created_at": "2024-08-14 05:29:35",
+        "updated_at": "2024-08-14 05:29:35"
+      },
+      {
+        "id": "103",
+        "brand_id": "12",
+        "name": "Creta",
+        "image": "cars/August2024/3zhBpPegG67FvMC32CTf.png",
+        "created_at": "2024-08-14 05:35:36",
+        "updated_at": "2024-08-27 07:47:02"
+      },
+      {
+        "id": "104",
+        "brand_id": "11",
+        "name": "Trailblazer",
+        "image": "cars/August2024/5i4cYASRm6Mq6rolslon.png",
+        "created_at": "2024-08-14 05:37:30",
+        "updated_at": "2024-08-14 05:37:30"
+      },
+      {
+        "id": "105",
+        "brand_id": "11",
+        "name": "Traverse",
+        "image": "cars/August2024/KXWqyGRQBeN7gr6hg9mM.png",
+        "created_at": "2024-08-14 05:38:26",
+        "updated_at": "2024-08-30 06:21:03"
+      },
+      {
+        "id": "106",
+        "brand_id": "11",
+        "name": "Monza 1.5",
+        "image": "cars/August2024/a01ta1lLI8bFiWvPjKPK.png",
+        "created_at": "2024-08-14 05:40:13",
+        "updated_at": "2024-08-29 12:56:40"
+      },
+      {
+        "id": "107",
+        "brand_id": "11",
+        "name": "Epica",
+        "image": "cars/August2024/isscMRr5pvZ725v2c6AX.jpg",
+        "created_at": "2024-08-14 05:41:35",
+        "updated_at": "2024-08-29 13:18:38"
+      },
+      {
+        "id": "108",
+        "brand_id": "11",
+        "name": "Aveo",
+        "image": "cars/August2024/m91xrK6BJQgnIJIM19Bu.png",
+        "created_at": "2024-08-14 05:42:27",
+        "updated_at": "2024-08-14 05:42:27"
+      },
+      {
+        "id": "109",
+        "brand_id": "11",
+        "name": "Orlando",
+        "image": "cars/August2024/cYVAtFRBZcrVJ8GAoD2x.png",
+        "created_at": "2024-08-14 05:43:15",
+        "updated_at": "2024-08-27 07:44:57"
+      },
+      {
+        "id": "111",
+        "brand_id": "11",
+        "name": "Equinox",
+        "image": "cars/August2024/2ittpVByXMaUTVRaa5Cn.png",
+        "created_at": "2024-08-14 05:45:16",
+        "updated_at": "2024-08-27 07:43:26"
+      },
+      {
+        "id": "112",
+        "brand_id": "24",
+        "name": "Hongql H5",
+        "image": "cars/August2024/uIThRhEeEXrqextZPf8w.png",
+        "created_at": "2024-08-14 05:48:58",
+        "updated_at": "2024-08-14 05:48:58"
+      },
+      {
+        "id": "113",
+        "brand_id": "24",
+        "name": "Hongql H7",
+        "image": "cars/August2024/K8kR29vK9vYMuGl8qR7Z.png",
+        "created_at": "2024-08-14 05:49:42",
+        "updated_at": "2024-08-14 05:49:42"
+      },
+      {
+        "id": "114",
+        "brand_id": "24",
+        "name": "Hongql H9",
+        "image": "cars/August2024/dlrv2QLUJYrqvQ75dJgH.png",
+        "created_at": "2024-08-14 05:50:46",
+        "updated_at": "2024-08-14 05:50:46"
+      },
+      {
+        "id": "115",
+        "brand_id": "25",
+        "name": "Skoda Kodiaq",
+        "image": "cars/August2024/90I1ixgiJqogegL8Za4R.jpg",
+        "created_at": "2024-08-14 05:54:11",
+        "updated_at": "2024-08-14 05:59:22"
+      },
+      {
+        "id": "116",
+        "brand_id": "26",
+        "name": "DONGFENG T5 EVO HYBRID",
+        "image": "cars/August2024/8FikGGaAUO6ZRSbKNnXx.png",
+        "created_at": "2024-08-14 05:58:59",
+        "updated_at": "2024-08-14 05:58:59"
+      },
+      {
+        "id": "117",
+        "brand_id": "27",
+        "name": "Camry 2.5LT",
+        "image": "cars/August2024/I3TkRQ2zUjBf2b9qqfLJ.png",
+        "created_at": "2024-08-14 06:32:03",
+        "updated_at": "2024-08-21 05:27:43"
+      },
+      {
+        "id": "118",
+        "brand_id": "27",
+        "name": "Crown",
+        "image": "cars/August2024/suxX6B73y1Ju7aXE8Gxn.png",
+        "created_at": "2024-08-14 06:32:50",
+        "updated_at": "2024-08-14 06:32:50"
+      },
+      {
+        "id": "119",
+        "brand_id": "27",
+        "name": "Highlander 3.5 LT",
+        "image": "cars/August2024/zURB8mBQFNZgzfpCsU5W.png",
+        "created_at": "2024-08-14 06:36:36",
+        "updated_at": "2024-08-21 06:23:30"
+      },
+      {
+        "id": "121",
+        "brand_id": "27",
+        "name": "Land Cruiser 150 2.7LT",
+        "image": "cars/August2024/WSnktv25qWGN84ybTvQk.png",
+        "created_at": "2024-08-14 06:38:12",
+        "updated_at": "2024-08-21 05:27:34"
+      },
+      {
+        "id": "122",
+        "brand_id": "27",
+        "name": "Land Cruiser 150 4.0LT",
+        "image": "cars/August2024/8u83a0YmRnjg8lmExDyv.png",
+        "created_at": "2024-08-14 06:43:03",
+        "updated_at": "2024-08-21 05:27:20"
+      },
+      {
+        "id": "123",
+        "brand_id": "27",
+        "name": "Land Cruiser 300",
+        "image": "cars/August2024/00wwhSR4jnPGYvO7xruL.png",
+        "created_at": "2024-08-14 07:23:41",
+        "updated_at": "2024-08-21 05:10:38"
+      },
+      {
+        "id": "124",
+        "brand_id": "27",
+        "name": "Camry 3.5LT",
+        "image": "cars/August2024/llH1YzlPpo3REbTVv35P.png",
+        "created_at": "2024-08-21 05:07:28",
+        "updated_at": "2024-08-21 05:26:59"
+      },
+      {
+        "id": "125",
+        "brand_id": "27",
+        "name": "Highlander 2.5 LT",
+        "image": "cars/August2024/grg9Ewo07K4yoltYjm1u.jpg",
+        "created_at": "2024-08-21 06:24:24",
+        "updated_at": "2024-08-21 06:24:31"
+      },
+      {
+        "id": "126",
+        "brand_id": "11",
+        "name": "Malibu XL",
+        "image": "cars/August2024/MeTvn20lU6Z0mRQ4i3YZ.png",
+        "created_at": "2024-08-26 10:18:25",
+        "updated_at": "2024-08-26 10:18:25"
+      },
+      {
+        "id": "127",
+        "brand_id": "11",
+        "name": "Monza 1.3",
+        "image": "cars/August2024/zK4v05hqGPUdLGsMjO7d.png",
+        "created_at": "2024-08-29 13:06:59",
+        "updated_at": "2024-08-29 13:06:59"
+      },
+      {
+        "id": "128",
+        "brand_id": "11",
+        "name": "Captiva 3.2",
+        "image": "cars/August2024/4QZrLyciQVdfpj7K3ACm.jpg",
+        "created_at": "2024-08-29 13:41:24",
+        "updated_at": "2024-08-29 13:48:55"
+      }
+    ]

@@ -1,0 +1,23 @@
+[
+  {
+    "news_id": 1,
+    "news_image": "../../public/images/default-content-image.png",
+    "news_title": "Заголовок - Название статьи 1",
+    "news_text": "Немного рандомного текста, Откликаться на любые заказы, вакансии и конкурсы",
+    "news_time": "14 часов назад"
+  },
+  {
+    "news_id": 2,
+    "news_image": "../../public/images/default-content-image.png",
+    "news_title": "Заголовок - Название статьи 2",
+    "news_text": "Немного рандомного текста, Откликаться на любые заказы, вакансии и конкурсы",
+    "news_time": "14 часов назад"
+  },
+  {
+    "news_id": 3,
+    "news_image": "../../public/images/default-content-image.png",
+    "news_title": "Заголовок - Название статьи 3",
+    "news_text": "Немного рандомного текста, Откликаться на любые заказы, вакансии и конкурсы",
+    "news_time": "14 часов назад"
+  }
+]
