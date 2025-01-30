@@ -6,6 +6,7 @@ import cars from "../../datas/cars.json";
 import products from "../../datas/products.json";
 import sets from "../../datas/collections.json";
 import { NavLink } from "react-router-dom";
+import { IoCheckmarkDoneSharp } from "react-icons/io5";
 
 const Cars = () => {
   const defaultSelectedBrand = brands.find(
@@ -99,8 +100,8 @@ const Cars = () => {
           <div className="container mx-auto px-1">
             {selectedCar ? (
               <>
-                <div className="selected-car-info h-[230px] w-100 bg-white rounded-lg flex justify-center items-center h-100 w-100">
-                  <div className="selected-car-toppings flex justify-between items-center px-4">
+                <div className="selected-car-info h-[230px] w-100 bg-white rounded-lg h-100 w-100">
+                  <div className="selected-car-toppings flex justify-between items-center px-4 ">
                     <h3 className="selected-car-topping-title">
                       {selectedCar.name}
                     </h3>
@@ -134,60 +135,94 @@ const Cars = () => {
                   {activeButton == "Metan" ? (
                     <>
                       {sets.map((e, i) => {
-                        if (e.type == "Metan"){
+                        if (e.type == "Metan") {
                           return (
-                            <div className="collection" key={e.id}>
-                            <div className="collection-images">
-                              <img src={e.image} alt="photo error" />
+                            <div className="set">
+                              <div>
+                                <h3 className="setheading">Standart</h3>
+                                <p className="price">
+                                  $629{" "}
+                                  <span className="priceafter">/permantly</span>
+                                </p>
+                                <p className="price-under">
+                                  Barcha maxsulotlar uchun 1 yillik garant
+                                  mavjud service ishlari va texnik ko'riklar
+                                  mutlaqo tekin
+                                </p>
+                                <button className="buybtn">Buy now</button>
+                                <div className="flex justify-center my-2">
+                                  <span className="buybtnunder">
+                                    what would you get
+                                  </span>
+                                </div>
+                                <ul className="mt-2 flex flex-col gap-2">
+                                  <li className="flex justify-start items-center">
+                                    <span className="item-text bg-blue-400 rounded-full p-[4px] me-1">
+                                      {" "}
+                                      <IoCheckmarkDoneSharp className="size-[16px]" />
+                                    </span>
+                                    <h3 className="itemname"> {e.reductor}</h3>
+                                  </li>
+                                  <li className="flex justify-start items-center">
+                                    <span className="item-text bg-blue-400 rounded-full p-[4px] me-1">
+                                      {" "}
+                                      <IoCheckmarkDoneSharp className="size-[16px]" />
+                                    </span>
+                                    <h3 className="itemname"> {e.forsunka}</h3>
+                                  </li>
+                                  <li className="flex justify-start items-center">
+                                    <span className="item-text bg-blue-400 rounded-full p-[4px] me-1">
+                                      {" "}
+                                      <IoCheckmarkDoneSharp className="size-[16px]" />
+                                    </span>
+                                    <h3 className="itemname">
+                                      {" "}
+                                      {e.elekronika}
+                                    </h3>
+                                  </li>
+                                  <li className="flex justify-start items-center">
+                                    <span className="item-text bg-blue-400 rounded-full p-[4px] me-1">
+                                      {" "}
+                                      <IoCheckmarkDoneSharp className="size-[16px]" />
+                                    </span>
+                                    <h3 className="itemname"> {e.ballon}</h3>
+                                  </li>
+                                  <li className="flex justify-start items-center">
+                                    <span className="item-text bg-blue-400 rounded-full p-[4px] me-1">
+                                      {" "}
+                                      <IoCheckmarkDoneSharp className="size-[16px]" />
+                                    </span>
+                                    <h3 className="itemname">
+                                      {" "}
+                                      {e.multiklapin}
+                                    </h3>
+                                  </li>
+                                  <li className="flex justify-start items-center">
+                                    <span className="item-text bg-blue-400 rounded-full p-[4px] me-1">
+                                      {" "}
+                                      <IoCheckmarkDoneSharp className="size-[16px]" />
+                                    </span>
+                                    <h3 className="itemname"> {e.filter}</h3>
+                                  </li>
+                                  <li className="flex justify-start items-center">
+                                    <span className="item-text bg-blue-400 rounded-full p-[4px] me-1">
+                                      {" "}
+                                      <IoCheckmarkDoneSharp className="size-[16px]" />
+                                    </span>
+                                    <h3 className="itemname"> {e.extra}</h3>
+                                  </li>
+                                </ul>
+                              </div>
                             </div>
-                            <div className="collection-body">
-                              <h1 className="collection-title">{e.name}</h1>
-                              <div>
-                                <span className="set-text">{e.reductor}</span>
-                              </div>
-                              <div>
-                                <span className="set-text">{e.forsunka}</span>
-                              </div>
-                              <div>
-                                <span className="set-text">{e.elekronika}</span>
-                              </div>
-                              <div>
-                                <span className="set-text">{e.ballon}</span>
-                              </div>
-                              <div>
-                                <span className="set-text">
-                                  {e.multiklapin}
-                                </span>
-                              </div>
-                              <div>
-                                <span className="set-text">{e.filter}</span>
-                              </div>
-                              <div>
-                                <span className="set-text">{e.extra}</span>
-                              </div>
-                            </div>
-                            <div className="collection-footer px-3  pb-3">
-                              <a href="tel:+998991237788">
-                                To'liq malumot uchun:
-                                <span className="text-blue-600 border-blue-400 border-b-[1px]">
-                                  991237788
-                                </span>
-                              </a>
-                              <button className="def-btn">
-                                Kozinkaga Qo'shish
-                              </button>
-                            </div>
-                          </div>
-                          )
+                          );
                         }
-                          
                       })}
-                      <div className="custom-set">
-                        <h2>
+                      <div className="custom-set bg-white rounded-lg px-3 my-[20px]">
+                        <h2 className="default-text py-3">
                           O'zingizga mos setni topa olmadingizmi? Hammasini
                           o'zingiz istaganingizday tering
                         </h2>
-                        <NavLink to={"/products"}>Products</NavLink>
+                        <button className="buybtn">Products</button>
                       </div>
                     </>
                   ) : (
@@ -195,63 +230,59 @@ const Cars = () => {
                       {sets.map((e, i) => {
                         if (e.type == "Propan") {
                           return (
-                              <div className="collection" key={e.id}>
-                                <div className="collection-images">
-                                  <img src={e.image} alt="photo error" />
+                            <div className="collection" key={e.id}>
+                              <div className="collection-images">
+                                <img src={e.image} alt="photo error" />
+                              </div>
+                              <div className="collection-body">
+                                <h1 className="collection-title">{e.name}</h1>
+                                <div>
+                                  <span className="set-text">{e.reductor}</span>
                                 </div>
-                                <div className="collection-body">
-                                  <h1 className="collection-title">{e.name}</h1>
-                                  <div>
-                                    <span className="set-text">
-                                      {e.reductor}
+                                <div>
+                                  <span className="set-text">{e.forsunka}</span>
+                                </div>
+                                <div>
+                                  <span className="set-text">
+                                    {e.elekronika}
+                                  </span>
+                                </div>
+                                <div>
+                                  <span className="set-text">{e.ballon}</span>
+                                </div>
+                                <div>
+                                  <span className="set-text">
+                                    {e.multiklapin}
+                                  </span>
+                                </div>
+                                <div>
+                                  <span className="set-text">{e.filter}</span>
+                                </div>
+                                <div>
+                                  <span className="set-text">{e.extra}</span>
+                                </div>
+                                <div className="collection-footer  pb-3">
+                                  <a href="tel:+998991237788">
+                                    To'liq malumot uchun:
+                                    <span className="text-blue-600 border-blue-400 border-b-[1px]">
+                                      991237788
                                     </span>
-                                  </div>
-                                  <div>
-                                    <span className="set-text">
-                                      {e.forsunka}
-                                    </span>
-                                  </div>
-                                  <div>
-                                    <span className="set-text">
-                                      {e.elekronika}
-                                    </span>
-                                  </div>
-                                  <div>
-                                    <span className="set-text">{e.ballon}</span>
-                                  </div>
-                                  <div>
-                                    <span className="set-text">
-                                      {e.multiklapin}
-                                    </span>
-                                  </div>
-                                  <div>
-                                    <span className="set-text">{e.filter}</span>
-                                  </div>
-                                  <div>
-                                    <span className="set-text">{e.extra}</span>
-                                  </div>
-                                  <div className="collection-footer  pb-3">
-                                    <a href="tel:+998991237788">
-                                      To'liq malumot uchun:
-                                      <span className="text-blue-600 border-blue-400 border-b-[1px]">
-                                        991237788
-                                      </span>
-                                    </a>
-                                    <button className="def-btn">
-                                      Kozinkaga Qo'shish
-                                    </button>
-                                  </div>
+                                  </a>
+                                  <button className="def-btn">
+                                    Kozinkaga Qo'shish
+                                  </button>
                                 </div>
                               </div>
+                            </div>
                           );
                         }
                       })}
-                      <div className="custom-set">
-                        <h2>
+                      <div className="custom-set bg-white rounded-lg px-3 my-[20px]">
+                        <h2 className="default-text py-3">
                           O'zingizga mos setni topa olmadingizmi? Hammasini
                           o'zingiz istaganingizday tering
                         </h2>
-                        <NavLink to={"/products"}>Products</NavLink>
+                        <button className="buybtn">Products</button>
                       </div>
                     </>
                   )}
