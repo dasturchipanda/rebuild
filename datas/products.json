@@ -1,7 +1,7 @@
 [
   {
     "id": "35",
-    "product_category_id": "20",
+    "product_category_id": "shlang",
     "name": "Шланг Fagumit 16 мм Metan",
     "image": "products/August2024/Mw8TvkUZlTWiWifzzWvH.jpg",
     "title": "Шланг Fagumit 16 мм Metan",
@@ -12,7 +12,7 @@
   },
   {
     "id": "36",
-    "product_category_id": "20",
+    "product_category_id": "shlang",
     "name": "Шланг Fagumit 16 мм Propan",
     "image": "products/August2024/sCO22GrdgekUWIYzNZQT.jpg",
     "title": "Шланг Fagumit 16 мм Propan",
@@ -23,7 +23,7 @@
   },
   {
     "id": "37",
-    "product_category_id": "20",
+    "product_category_id": "shlang",
     "name": "Шланг FAGUMIT 4 мм Metan",
     "image": "products/August2024/8Qm9STNfAZALjC7mPlOQ.jpg",
     "title": "Шланг FAGUMIT 4 мм Metan",
@@ -34,7 +34,7 @@
   },
   {
     "id": "38",
-    "product_category_id": "20",
+    "product_category_id": "shlang",
     "name": "Шланг FAGUMIT 4 мм Propan",
     "image": "products/August2024/PdxLWlmEXjYD67owZFpp.jpg",
     "title": "Шланг FAGUMIT 4 мм Propan",
@@ -45,7 +45,7 @@
   },
   {
     "id": "39",
-    "product_category_id": "20",
+    "product_category_id": "shlang",
     "name": "Шланг FAGUMIT 5 мм Propan",
     "image": "products/August2024/AA5R9tMUV5uoPYewhfo7.jpg",
     "title": "Шланг FAGUMIT 5 мм Propan",
@@ -56,7 +56,7 @@
   },
   {
     "id": "40",
-    "product_category_id": "20",
+    "product_category_id": "shlang",
     "name": "Шланг FAGUMIT 5 мм Metan",
     "image": "products/August2024/cyIqmZaRAMWSd9ZM3OfO.jpg",
     "title": "Шланг FAGUMIT 5 мм Metan",
@@ -67,7 +67,7 @@
   },
   {
     "id": "41",
-    "product_category_id": "20",
+    "product_category_id": "shlang",
     "name": "Шланг FAGUMIT 6 мм Propan",
     "image": "products/August2024/GN6BgOv6LGHfFE0xEh2H.jpg",
     "title": "Шланг FAGUMIT 6 мм Propan",
@@ -78,7 +78,7 @@
   },
   {
     "id": "42",
-    "product_category_id": "20",
+    "product_category_id": "shlang",
     "name": "Шланг FAGUMIT 6 мм Metan",
     "image": "products/August2024/FEzDKlPoo0CAJaXOXomd.jpg",
     "title": "Шланг FAGUMIT 6 мм Metan",
@@ -89,7 +89,7 @@
   },
   {
     "id": "43",
-    "product_category_id": "20",
+    "product_category_id": "shlang",
     "name": "Шланг FAGUMIT 8 мм Propan",
     "image": "products/August2024/vZryt3QSJQabqT0OKY8i.jpg",
     "title": "Шланг FAGUMIT 8 мм Propan",
@@ -100,7 +100,7 @@
   },
   {
     "id": "44",
-    "product_category_id": "20",
+    "product_category_id": "shlang",
     "name": "Шланг FAGUMIT 8 мм Metan",
     "image": "products/August2024/As4BVuobFCBupxWmcHLx.jpg",
     "title": "Шланг FAGUMIT 8 мм Metan",
@@ -111,7 +111,7 @@
   },
   {
     "id": "45",
-    "product_category_id": "20",
+    "product_category_id": "shlang",
     "name": "Шланг Fagumit 11 мм Propan",
     "image": "products/August2024/N0axhm23sDQC6pFbUHZ0.jpg",
     "title": "Шланг Fagumit 11 мм Propan",
@@ -122,7 +122,7 @@
   },
   {
     "id": "46",
-    "product_category_id": "20",
+    "product_category_id": "shlang",
     "name": "Шланг Fagumit 11 мм Metan",
     "image": "products/August2024/KIBF4Nm3FRKkDeJFVXNP.jpg",
     "title": "Шланг Fagumit 11 мм Metan",
@@ -133,7 +133,7 @@
   },
   {
     "id": "47",
-    "product_category_id": "20",
+    "product_category_id": "shlang",
     "name": "Шланг Fagumit 15 мм Propan",
     "image": "products/August2024/zShtT146nRcWw3uy5UVx.jpg",
     "title": "Шланг Fagumit 15 мм Propan",
@@ -144,7 +144,7 @@
   },
   {
     "id": "48",
-    "product_category_id": "20",
+    "product_category_id": "shlang",
     "name": "Шланг Fagumit 15 мм Metan",
     "image": "products/August2024/lYwdlUQKsbJAs3D3fN9z.jpg",
     "title": "Шланг Fagumit 15 мм Metan",
@@ -155,7 +155,7 @@
   },
   {
     "id": "49",
-    "product_category_id": "11",
+    "product_category_id": "reductor",
     "name": "Редуктор Пропан STAG R01",
     "image": "products/August2024/AQIE5sc8MPaYNg0fVtPM.jpg",
     "title": "Редуктор STAG R01",
@@ -166,7 +166,7 @@
   },
   {
     "id": "50",
-    "product_category_id": "11",
+    "product_category_id": "reductor",
     "name": "Редуктор AC R02 LPG (пропан)",
     "image": "products/August2024/1OLNE1DptGNPkaEAbYXU.jpg",
     "title": "Редуктор AC R02 LPG (пропан)",
@@ -177,7 +177,7 @@
   },
   {
     "id": "51",
-    "product_category_id": "11",
+    "product_category_id": "reductor",
     "name": "Редуктор Пропан STAG R02 TWIN",
     "image": "products/August2024/mDO7IQcQJvngXBYbSaB3.jpg",
     "title": "STAG R02 TWIN",
@@ -188,7 +188,7 @@
   },
   {
     "id": "52",
-    "product_category_id": "11",
+    "product_category_id": "reductor",
     "name": "Редуктор Пропан STAG R02 EL",
     "image": "products/August2024/Mm2FNaOmD16ifKjU5yT4.png",
     "title": "Редуктор Пропан STAG R02 EL",
@@ -199,7 +199,7 @@
   },
   {
     "id": "53",
-    "product_category_id": "11",
+    "product_category_id": "reductor",
     "name": "Редуктор Метан STAG R14",
     "image": "products/August2024/F3VWIEY3PkAJKcETj5ws.jpg",
     "title": "Редуктор Метан STAG R14",
@@ -210,7 +210,7 @@
   },
   {
     "id": "54",
-    "product_category_id": "11",
+    "product_category_id": "reductor",
     "name": "TOMASETTO Редукторы МЕТАН Модель АТ20 Одноступенчатый",
     "image": "products/August2024/XnBk3HdLNDSf1wFPWzHc.jpg",
     "title": "Редукторы МЕТАН Модель АТ20 Одноступенчатый",
@@ -221,7 +221,7 @@
   },
   {
     "id": "55",
-    "product_category_id": "11",
+    "product_category_id": "reductor",
     "name": "TOMASETTO Редукторы CNG (МЕТАН) Модель AT04 HP 140",
     "image": "products/August2024/56GqfboRV0folWOhyj0S.jpg",
     "title": "Редукторы CNG (МЕТАН) Модель AT04 HP 140",
@@ -232,7 +232,7 @@
   },
   {
     "id": "56",
-    "product_category_id": "11",
+    "product_category_id": "reductor",
     "name": "TOMASETTO Редукторы CNG (МЕТАН) Модель AT04 HP100",
     "image": "products/August2024/hMRUyHYNcpdJWaK6cm8H.jpg",
     "title": "Редукторы CNG (МЕТАН) Модель AT04 HP100",
@@ -243,7 +243,7 @@
   },
   {
     "id": "57",
-    "product_category_id": "11",
+    "product_category_id": "reductor",
     "name": "TOMASETTO Редукторы CNG (МЕТАН) Модель AT12 STANDARD",
     "image": "products/August2024/V47OrB33YGJKZJLv2wz6.jpg",
     "title": "Редукторы CNG (МЕТАН) Модель AT12 STANDARD",
@@ -254,7 +254,7 @@
   },
   {
     "id": "58",
-    "product_category_id": "11",
+    "product_category_id": "reductor",
     "name": "TOMASETTO Редукторы CNG (МЕТАН) Модель AT04 Super",
     "image": "products/August2024/L5fa4hDNjnBFdPfmsk9g.jpg",
     "title": "Редукторы CNG (МЕТАН) Модель AT04 Super",
@@ -265,7 +265,7 @@
   },
   {
     "id": "59",
-    "product_category_id": "11",
+    "product_category_id": "reductor",
     "name": "TOMASETTO Редуктор пропан-бутан Модель NORDIC",
     "image": "products/August2024/mke9xkYU5JEoD6JOne4A.jpg",
     "title": "TOMASETTO Редуктор пропан-бутан Модель NORDIC",
@@ -276,7 +276,7 @@
   },
   {
     "id": "60",
-    "product_category_id": "11",
+    "product_category_id": "reductor",
     "name": "TOMASETTO Редукторы пропан-бутан Модель ALASKA",
     "image": "products/August2024/ZIuw0J9qvlsEUqpfvm3i.jpg",
     "title": "TOMASETTO Редукторы пропан-бутан Модель ALASKA",
@@ -287,7 +287,7 @@
   },
   {
     "id": "61",
-    "product_category_id": "11",
+    "product_category_id": "reductor",
     "name": "TOMASETTO Редукторы пропан-бутан Модель ARTIC",
     "image": "products/August2024/sCoxZ0ZDGRuUw2Q0TiEn.jpg",
     "title": "TOMASETTO Редукторы пропан-бутан Модель ARTIC",
@@ -298,7 +298,7 @@
   },
   {
     "id": "66",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "ЭЛЕКТРОНИКА SET STAG 400-4",
     "image": "products/August2024/47wn0h4oymJAw9FC7PJG.jpg",
     "title": "ЭЛЕКТРОНИКА SET STAG 400-4",
@@ -309,7 +309,7 @@
   },
   {
     "id": "67",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "ЭЛЕКТРОНИКА SET STAG 400-8",
     "image": "products/August2024/UnPWRZmp9DlhQFkB9T8y.png",
     "title": "ЭЛЕКТРОНИКА SET STAG 400.8 DPI",
@@ -320,7 +320,7 @@
   },
   {
     "id": "68",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "Эликтроника SET STAG 300-8 QMAX BASIC  PLUS",
     "image": "products/August2024/DUspaL4WeCxbT5IW64G1.jpg",
     "title": "Эликтроника SET STAG 300-8 QMAX BASIC  PLUS",
@@ -331,7 +331,7 @@
   },
   {
     "id": "69",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "ЭЛЕКТРОНИКА  STAG 4 Q NEXT PLUS",
     "image": "products/August2024/7BsGUx1s10ACd2O6T6pd.jpg",
     "title": "STAG 4 Q NEXT PLUS",
@@ -342,7 +342,7 @@
   },
   {
     "id": "70",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "Эликтроника SET  STAG 300-6 QMAX BASIC",
     "image": "products/August2024/Rqvues27PoaZWGFiwVt8.jpg",
     "title": "SET STAG 300-6 QMAX BASIC",
@@ -353,7 +353,7 @@
   },
   {
     "id": "71",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "ЭЛЕКТРОНИКА  STAG DIESEL 6 цил LT",
     "image": "products/August2024/9gn8ovl49pzIX0zsqDNk.jpg",
     "title": "STAG DIESEL 6 цил LT",
@@ -364,7 +364,7 @@
   },
   {
     "id": "72",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "ЭЛЕКТРОНИКА STAG DIESEL 6 цил MLT",
     "image": "products/August2024/LPqJtzO2e0REEbLcwfRK.jpg",
     "title": "STAG DIESEL 6 цил MLT",
@@ -375,7 +375,7 @@
   },
   {
     "id": "73",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "ЭЛЕКТРОНИКА STAG DIESEL 4 цил MLT",
     "image": "products/August2024/lLS2JYakp0hk97H5TM92.jpg",
     "title": "STAG DIESEL 4 цил MLT",
@@ -386,7 +386,7 @@
   },
   {
     "id": "74",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "ЭЛЕКТРОНИКА STAG DIESEL 4 цил LT",
     "image": "products/August2024/p4fvIcWL1hNO5wsIX0Ou.jpg",
     "title": "STAG DIESEL 4 цил LT",
@@ -397,7 +397,7 @@
   },
   {
     "id": "75",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "Эликтроника SET STAG-200 GoFast-4",
     "image": "products/August2024/v4BspQsMFvvlSFIAKZ1z.jpg",
     "title": "Эликтроника SET STAG-200 GoFast-4",
@@ -408,7 +408,7 @@
   },
   {
     "id": "76",
-    "product_category_id": "19",
+    "product_category_id": "filter",
     "name": "Фильтр газовый с отстойником Valtek",
     "image": "products/August2024/66svqlf2IFUiitPA8LnR.jpg",
     "title": "Фильтр газовый с отстойником Valtek",
@@ -419,7 +419,7 @@
   },
   {
     "id": "77",
-    "product_category_id": "19",
+    "product_category_id": "filter",
     "name": "Одноразовый фильтр Propan",
     "image": "products/August2024/3a0u0YnXmuDyMVi1bN4B.jpg",
     "title": "Одноразовый фильтр Propan",
@@ -430,7 +430,7 @@
   },
   {
     "id": "78",
-    "product_category_id": "19",
+    "product_category_id": "filter",
     "name": "ФИЛЬТР ГРУБОЙ ОЧИСТКИ (ЖИДКОЙ ФАЗЫ)VAITEK В КЛАПАН ГАЗА",
     "image": "products/August2024/nGByXE9VS2Mq9B7yDI5n.jpeg",
     "title": "ФИЛЬТР ГРУБОЙ ОЧИСТКИ (ЖИДКОЙ ФАЗЫ)VAITEK В КЛАПАН ГАЗА",
@@ -441,7 +441,7 @@
   },
   {
     "id": "79",
-    "product_category_id": "17",
+    "product_category_id": "forsunka",
     "name": "Форсунка AC W-03 4-CYL KPL EXPORT",
     "image": "products/August2024/hFt0czeZQZaQFAyzgI5D.jpg",
     "title": "Форсунка AC W-03 4-CYL KPL EXPORT",
@@ -452,7 +452,7 @@
   },
   {
     "id": "80",
-    "product_category_id": "17",
+    "product_category_id": "forsunka",
     "name": "Форсунка AC W-02 4-CYL KPL EXPORT",
     "image": "products/August2024/Bj9hQLIx8Vo4e8l8vN5E.jpg",
     "title": "Форсунка AC W-02 4-CYL KPL EXPORT",
@@ -463,7 +463,7 @@
   },
   {
     "id": "81",
-    "product_category_id": "17",
+    "product_category_id": "forsunka",
     "name": "Форсунка AC W-01 3-CYL KPL EXPORT",
     "image": "products/August2024/Mz5tOZNapN3OsUooxIox.jpg",
     "title": "Форсунка AC W-01 3-CYL KPL EXPORT",
@@ -474,7 +474,7 @@
   },
   {
     "id": "82",
-    "product_category_id": "17",
+    "product_category_id": "forsunka",
     "name": "Форсунка AC W-01 4-CYL KPL EXPORT",
     "image": "products/August2024/KstQn71zfyGXbBVbYKVG.jpg",
     "title": "Форсунка AC W-01 4-CYL KPL EXPORT",
@@ -485,7 +485,7 @@
   },
   {
     "id": "83",
-    "product_category_id": "17",
+    "product_category_id": "forsunka",
     "name": "ГАЗОВЫЕ ФОРСУНКИ LOVATO",
     "image": "products/August2024/hstX3iTDZZil005lyKA2.jpg",
     "title": "ГАЗОВЫЕ ФОРСУНКИ LOVATO",
@@ -496,7 +496,7 @@
   },
   {
     "id": "84",
-    "product_category_id": "11",
+    "product_category_id": "reductor",
     "name": "KME EXTREME",
     "image": "products/August2024/3I1Jv5DtggEJPzgXauDm.jpg",
     "title": "KME EXTREME",
@@ -507,7 +507,7 @@
   },
   {
     "id": "85",
-    "product_category_id": "11",
+    "product_category_id": "reductor",
     "name": "KME Gold",
     "image": "products/August2024/eCyvhAjxI2lA2GHVNETr.jpg",
     "title": "KME Gold",
@@ -518,7 +518,7 @@
   },
   {
     "id": "86",
-    "product_category_id": "11",
+    "product_category_id": "reductor",
     "name": "KME Silver",
     "image": "products/August2024/LAFdUb4AskcgvnCzybIy.jpg",
     "title": "KME Silver",
@@ -529,7 +529,7 @@
   },
   {
     "id": "87",
-    "product_category_id": "18",
+    "product_category_id": "propanballon",
     "name": "Propan 48LT",
     "image": "products/August2024/h7sOoeoZ2JwsiC8KVHcD.webp",
     "title": "Газовый баллон Propan 48LT",
@@ -540,7 +540,7 @@
   },
   {
     "id": "88",
-    "product_category_id": "18",
+    "product_category_id": "propanballon",
     "name": "Propan 54LT",
     "image": "products/August2024/hsyhYOVV51SvoFaZpAxs.webp",
     "title": "Газовый баллон Propan 54LT",
@@ -551,7 +551,7 @@
   },
   {
     "id": "89",
-    "product_category_id": "18",
+    "product_category_id": "propanballon",
     "name": "Propan 59LT",
     "image": "products/August2024/sY3jcWNIXc9tHtGqxO9J.webp",
     "title": "Газовый баллон Propan 59LT",
@@ -562,7 +562,7 @@
   },
   {
     "id": "90",
-    "product_category_id": "18",
+    "product_category_id": "propanballon",
     "name": "Propan 63LT",
     "image": "products/August2024/xUPt2O9oAGmRB9bSbnCc.webp",
     "title": "Газовый баллон Propan 63LT",
@@ -573,7 +573,7 @@
   },
   {
     "id": "92",
-    "product_category_id": "23",
+    "product_category_id": "multklapin",
     "name": "Мультиклапан AT00 Sprint h.220/225- 30° D8",
     "image": "products/August2024/UIqReIQU5FziQxGO0E5G.jpg",
     "title": "Мультиклапан AT00 Sprint h.220/225- 30° D8",
@@ -584,7 +584,7 @@
   },
   {
     "id": "93",
-    "product_category_id": "23",
+    "product_category_id": "multklapin",
     "name": "Мультиклапан AT00 Sprint h.200/204- 30° D6",
     "image": "products/August2024/fy0eJXbAXH1irkK8l6xM.jpg",
     "title": "Мультиклапан AT00 Sprint h.200/204- 30° D6",
@@ -595,7 +595,7 @@
   },
   {
     "id": "94",
-    "product_category_id": "23",
+    "product_category_id": "multklapin",
     "name": "Multivalve AT00 Sprint  d.315- 30° D6",
     "image": "products/August2024/dc7jsYOH5q6P47HINf1E.jpg",
     "title": "Multivalve AT00 Sprint  d.315- 30° D6",
@@ -606,7 +606,7 @@
   },
   {
     "id": "95",
-    "product_category_id": "23",
+    "product_category_id": "multklapin",
     "name": "Мультиклапан AT00 Sprint h.220/225- 30° D6",
     "image": "products/August2024/E9UQi3AOHKnZY4hqY3PZ.jpg",
     "title": "Мультиклапан AT00 Sprint h.220/225- 30° D6",
@@ -617,7 +617,7 @@
   },
   {
     "id": "96",
-    "product_category_id": "23",
+    "product_category_id": "multklapin",
     "name": "Мультиклапан AT00 Sprint h.200/204- 30° D8",
     "image": "products/August2024/4hd2i4elCPju9GQ679j3.jpg",
     "title": "Мультиклапан AT00 Sprint h.200/204- 30° D8",
@@ -628,7 +628,7 @@
   },
   {
     "id": "97",
-    "product_category_id": "23",
+    "product_category_id": "multklapin",
     "name": "Мультиклапан AT00 Sprint d.315- 30° D8",
     "image": "products/August2024/ukJnzNAJbGXjlGYYTpht.jpg",
     "title": "Мультиклапан AT00 Sprint d.315- 30° D8",
@@ -639,7 +639,7 @@
   },
   {
     "id": "98",
-    "product_category_id": "20",
+    "product_category_id": "shlang",
     "name": "Пластиковая трупка FARO LPG 6mm",
     "image": "products/August2024/Cuf8fS6KdVxJpsOlkvvG.jpg",
     "title": "Пластиковая трупка FARO LPG 6mm",
@@ -650,7 +650,7 @@
   },
   {
     "id": "99",
-    "product_category_id": "20",
+    "product_category_id": "shlang",
     "name": "Tрупка 8mm FARO LPG",
     "image": "products/August2024/v2j0jb3dhU6kw0No2ocM.jpg",
     "title": "Пластиковая трупка FARO LPG 8mm",
@@ -661,7 +661,7 @@
   },
   {
     "id": "100",
-    "product_category_id": "24",
+    "product_category_id": "fiting",
     "name": "Фитинг ФАРО 6д углавое",
     "image": "products/August2024/j3QDvY0TVQy2CdjQaDjC.jpg",
     "title": "Фитинг ФАРО 6д углавое",
@@ -672,7 +672,7 @@
   },
   {
     "id": "101",
-    "product_category_id": "24",
+    "product_category_id": "fiting",
     "name": "Фитинг ФАРО 8д угилавое",
     "image": "products/August2024/O89Oz9ijjhVKNHlGp8Lo.jpg",
     "title": "Фитинг ФАРО 8д угилавое",
@@ -683,7 +683,7 @@
   },
   {
     "id": "102",
-    "product_category_id": "18",
+    "product_category_id": "propanballon",
     "name": "Propan 65LT Цилиндр",
     "image": "products/August2024/j3cR1qJu28Y4dw5IRtRt.jpg",
     "title": "Газовый баллон Propan 65LT Цилиндр",
@@ -694,7 +694,7 @@
   },
   {
     "id": "103",
-    "product_category_id": "18",
+    "product_category_id": "propanballon",
     "name": "Propan 90LT Цилиндр",
     "image": "products/August2024/gK9NuZmZWPOpOLAM2jLP.jpg",
     "title": "Газовый баллон пропан 90 литров Цилиндр",
@@ -705,7 +705,7 @@
   },
   {
     "id": "104",
-    "product_category_id": "25",
+    "product_category_id": "pastafka",
     "name": "Пастафка",
     "image": "products/August2024/KPi9hPluLxX0B5AzhzNn.jpeg",
     "title": "Держатель для газового баллона (\"Паста́вка\")",
@@ -716,7 +716,7 @@
   },
   {
     "id": "105",
-    "product_category_id": "18",
+    "product_category_id": "propanballon",
     "name": "Propan 61LT",
     "image": "products/August2024/IFOngPqtFIfXS06jb3dc.webp",
     "title": "Газовый баллон пропан 61LT",
@@ -727,7 +727,7 @@
   },
   {
     "id": "106",
-    "product_category_id": "28",
+    "product_category_id": "metanballon",
     "name": "Баллон 90LT",
     "image": "products/August2024/1ZCkEhtxw440cKRDqPIi.jpg",
     "title": "Газовый баллон метан 90LT",
@@ -738,7 +738,7 @@
   },
   {
     "id": "107",
-    "product_category_id": "28",
+    "product_category_id": "metanballon",
     "name": "Баллон 100LT",
     "image": "products/August2024/06GfNhIjilx0dW7qO8JU.jpg",
     "title": "Газовый баллон метан 100LT",
@@ -749,7 +749,7 @@
   },
   {
     "id": "108",
-    "product_category_id": "17",
+    "product_category_id": "forsunka",
     "name": "Форсунка AC W-03 4-CYL KPL EXPORT",
     "image": "products/August2024/K3Yw9Zv0NLeO2Fxl041R.jpg",
     "title": "Форсунка AC W-03 4-CYL KPL EXPORT",
@@ -760,7 +760,7 @@
   },
   {
     "id": "109",
-    "product_category_id": "17",
+    "product_category_id": "forsunka",
     "name": "Форсунка AC W-031 4-CYL",
     "image": "products/August2024/MCHDmvKNNLv0gDS6noPA.jpeg",
     "title": "Форсунка AC W-031 4-CYL",
@@ -771,7 +771,7 @@
   },
   {
     "id": "110",
-    "product_category_id": "20",
+    "product_category_id": "shlang",
     "name": "Metalniy Trubka",
     "image": "products/August2024/o7wC9MnHb6BoRpu6k7WM.jpg",
     "title": "Metalniy Trubka",
@@ -782,7 +782,7 @@
   },
   {
     "id": "111",
-    "product_category_id": "26",
+    "product_category_id": "kran",
     "name": "кран для газового баллона",
     "image": "products/August2024/v2wnp7G5XHCZOlEqIyy6.jpg",
     "title": "кран для газового баллона",
@@ -793,7 +793,7 @@
   },
   {
     "id": "112",
-    "product_category_id": "27",
+    "product_category_id": "zaprashniy",
     "name": "Запрашный",
     "image": "products/August2024/tUQhH1p1d0Fd42pwB8vI.jpg",
     "title": "Запрашный",
@@ -804,7 +804,7 @@
   },
   {
     "id": "113",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "KME ELEKTRONIKA NEVO-SKY DIRECT 4 CYL Стандарт",
     "image": "products/August2024/GSUSLVYyPKNWvNoHX98L.jpg",
     "title": "KME ELEKTRONIKA NEVO-SKY DIRECT 4 CYL Стандарт",
@@ -815,7 +815,7 @@
   },
   {
     "id": "114",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "KME ELEKTRONIKA NEVO-SKY DIRECT 4 CYL Стандарт",
     "image": "products/August2024/DNKWEQ2vP4U3pt0lOlYG.jpg",
     "title": "KME ELEKTRONIKA NEVO-SKY DIRECT 4 CYL Стандарт",
@@ -826,7 +826,7 @@
   },
   {
     "id": "115",
-    "product_category_id": "17",
+    "product_category_id": "forsunka",
     "name": "Forsunka Fenix 4-CYL",
     "image": "products/August2024/DTvLqh1cuFav5UcNSsRE.jpg",
     "title": "Forsunka Fenix 4-CYL",
@@ -837,7 +837,7 @@
   },
   {
     "id": "116",
-    "product_category_id": "17",
+    "product_category_id": "forsunka",
     "name": "Forsunka Fenix 3-CYL",
     "image": "products/August2024/2HTQau6jcxVkzAtfvcK4.jpeg",
     "title": "Forsunka Fenix 3-CYL",
@@ -848,7 +848,7 @@
   },
   {
     "id": "117",
-    "product_category_id": "17",
+    "product_category_id": "forsunka",
     "name": "Forsunka AVI rail dakota 4CYL",
     "image": "products/August2024/808BMh2jE1hKL4NSvc6y.jpg",
     "title": "Forsunka AVI rail dakota 4CYL",
@@ -859,7 +859,7 @@
   },
   {
     "id": "118",
-    "product_category_id": "17",
+    "product_category_id": "forsunka",
     "name": "Forsunka AVI rail dakota 3CYL",
     "image": "products/August2024/dmfpK8ALPdWTMnj6OdyN.jpg",
     "title": "Forsunka AVI rail dakota 3CYL",
@@ -870,7 +870,7 @@
   },
   {
     "id": "119",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "Электроника STAG 500-4 BASIC",
     "image": "products/August2024/2zqOssxllZjAvfjP9nn8.webp",
     "title": "Электроника STAG 500-4 BASIC",
@@ -881,7 +881,7 @@
   },
   {
     "id": "120",
-    "product_category_id": "19",
+    "product_category_id": "filter",
     "name": "Одноразовый фильтр Metan",
     "image": "products/August2024/k15xyrezyzEcD5WHrFHK.jpg",
     "title": "Одноразовый фильтр Metan",
@@ -892,7 +892,7 @@
   },
   {
     "id": "121",
-    "product_category_id": "28",
+    "product_category_id": "metanballon",
     "name": "Газовый баллон метан 130LT",
     "image": "products/August2024/YUOppcOXxANbZQJxPN2l.jpg",
     "title": "Газовый баллон метан 130LT",
@@ -903,7 +903,7 @@
   },
   {
     "id": "122",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "Эликтроника SET STAG-200 GoFast-4 LED 600",
     "image": "products/August2024/t8KHMnulyWRmQ51DCxYr.png",
     "title": "Эликтроника SET STAG-200 GoFast-4 LED 600",
@@ -914,7 +914,7 @@
   },
   {
     "id": "123",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "Эликтроника SET STAG 400-6",
     "image": "products/August2024/jLCTd0IyDfVjg7CcRbwE.png",
     "title": "Эликтроника SET STAG 400-6",
@@ -925,7 +925,7 @@
   },
   {
     "id": "124",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "Эликтроника SET STAG 300-8 QMAX BASIC",
     "image": "products/August2024/zrfuXflRYwkm5yAq4AG5.jpg",
     "title": "Эликтроника SET STAG 300-8 QMAX BASIC",
@@ -936,7 +936,7 @@
   },
   {
     "id": "125",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "Эликтроника SET  STAG 300-6 QMAX PLUS",
     "image": "products/August2024/oG8S2gbC3SaobBWPmQBB.jpg",
     "title": "Эликтроника SET  STAG 300-6 QMAX PLUS",
@@ -947,7 +947,7 @@
   },
   {
     "id": "126",
-    "product_category_id": "28",
+    "product_category_id": "metanballon",
     "name": "Газовый баллон метан 30LT",
     "image": "products/August2024/bxNczL9G807YiJYmbMTu.jpg",
     "title": "Газовый баллон метан 30LT",
@@ -958,7 +958,7 @@
   },
   {
     "id": "127",
-    "product_category_id": "28",
+    "product_category_id": "metanballon",
     "name": "Газовый баллон метан 50 литров",
     "image": "products/August2024/iERE1z7pLUPHv0v7vVPL.jpg",
     "title": "Газовый баллон метан 50 литров",
@@ -969,7 +969,7 @@
   },
   {
     "id": "128",
-    "product_category_id": "28",
+    "product_category_id": "metanballon",
     "name": "Газовый баллон метан 65 литров",
     "image": "products/August2024/YwWuM6OjqE9Z4dLwcbAS.jpg",
     "title": "Газовый баллон метан 65 литров",
@@ -980,7 +980,7 @@
   },
   {
     "id": "129",
-    "product_category_id": "28",
+    "product_category_id": "metanballon",
     "name": "Газовый баллон метан 75 литров",
     "image": "products/August2024/FULT0pETElvuAWerkf5M.jpg",
     "title": "Газовый баллон метан 75 литров",
@@ -991,7 +991,7 @@
   },
   {
     "id": "130",
-    "product_category_id": "28",
+    "product_category_id": "metanballon",
     "name": "Газовый баллон метан 80 литров",
     "image": "products/August2024/wuijeq3gdcwrMLqXfWVb.jpg",
     "title": "Газовый баллон метан 80 литров",
@@ -1002,7 +1002,7 @@
   },
   {
     "id": "131",
-    "product_category_id": "28",
+    "product_category_id": "metanballon",
     "name": "Газовый баллон метан 150 литров",
     "image": "products/August2024/8RT8su0E7Pz6QR0mxUsx.jpg",
     "title": "Газовый баллон метан 150 литров",
@@ -1013,7 +1013,7 @@
   },
   {
     "id": "132",
-    "product_category_id": "18",
+    "product_category_id": "propanballon",
     "name": "Газовый баллон пропан  120 цилиндр",
     "image": "products/August2024/EtejiDv5yJHAYOhLUZSv.jpg",
     "title": "Газовый баллон пропан  120 цилиндр",
@@ -1024,7 +1024,7 @@
   },
   {
     "id": "133",
-    "product_category_id": "18",
+    "product_category_id": "propanballon",
     "name": "Газовый баллон пропан 35LT",
     "image": "products/August2024/zC6494bbJWQxoqZiiiut.webp",
     "title": "Газовый баллон пропан 35LT",
@@ -1035,7 +1035,7 @@
   },
   {
     "id": "134",
-    "product_category_id": "18",
+    "product_category_id": "propanballon",
     "name": "Газовый баллон пропан 42 литра",
     "image": "products/August2024/Q6DyK747E8fwl4HC43fl.webp",
     "title": "Газовый баллон пропан 42 литра",
@@ -1046,7 +1046,7 @@
   },
   {
     "id": "135",
-    "product_category_id": "18",
+    "product_category_id": "propanballon",
     "name": "Газовый баллон пропан 51 литра",
     "image": "products/August2024/aSZReWAaR4nXpbjcnxfJ.webp",
     "title": "Газовый баллон пропан 51 литра",
@@ -1057,7 +1057,7 @@
   },
   {
     "id": "136",
-    "product_category_id": "18",
+    "product_category_id": "propanballon",
     "name": "Газовый баллон пропан 72 литра",
     "image": "products/August2024/na2BmjHAP9TA4UO2lM8T.webp",
     "title": "Газовый баллон пропан 72 литра",
@@ -1068,7 +1068,7 @@
   },
   {
     "id": "137",
-    "product_category_id": "18",
+    "product_category_id": "propanballon",
     "name": "Газовый баллон пропан 83 литра",
     "image": "products/August2024/b3dWP1Cub9IvAusWp6LF.webp",
     "title": "Газовый баллон пропан 83 литра",
@@ -1079,7 +1079,7 @@
   },
   {
     "id": "138",
-    "product_category_id": "18",
+    "product_category_id": "propanballon",
     "name": "Газовый баллон пропан 89 литров",
     "image": "products/August2024/iF8DnxgF0Wm2OpPQaHs9.webp",
     "title": "Газовый баллон пропан 89 литров",
@@ -1090,7 +1090,7 @@
   },
   {
     "id": "139",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "KME ELEKTRONIKA NEVO-SKY DIRECT 4 CYL RL",
     "image": "products/August2024/uqV10WTPHtXeEw96LagD.jpg",
     "title": "KME ELEKTRONIKA NEVO-SKY DIRECT 4 CYL RL",
@@ -1101,7 +1101,7 @@
   },
   {
     "id": "140",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "KME ELEKTRONIKA NEVO-SKY DUAL 4 CYL R/RL Стандарт",
     "image": "products/August2024/gHjELYj5HDfPk244PvOd.jpg",
     "title": "KME ELEKTRONIKA NEVO-SKY DUAL 4 CYL R/RL Стандарт",
@@ -1112,7 +1112,7 @@
   },
   {
     "id": "141",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "KME Elektronika NEVO-SKY Dual 4 Cyl RL/RL",
     "image": "products/August2024/uzaU5aS5f4q5DSpyaIeq.jpg",
     "title": "KME Elektronika NEVO-SKY Dual 4 Cyl RL/RL",
@@ -1123,7 +1123,7 @@
   },
   {
     "id": "142",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "KME ELEKTRONIKA NEVO-SKY JET ECO 4 CYL",
     "image": "products/August2024/om8nw4jF1NUaX5uqdcbP.jpg",
     "title": "KME ELEKTRONIKA NEVO-SKY JET ECO 4 CYL",
@@ -1134,7 +1134,7 @@
   },
   {
     "id": "143",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "KME ELEKTRONIKA NEVO-SKY JET OBD MINI 4 CYL",
     "image": "products/August2024/UN35d3VQdOx83sivYPUI.jpg",
     "title": "KME ELEKTRONIKA NEVO-SKY JET OBD MINI 4 CYL",
@@ -1145,7 +1145,7 @@
   },
   {
     "id": "144",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "KME ELEKTRONIKA NEVO-SKY JET OBD 4 CYL",
     "image": "products/August2024/6FNeCc73K2DBrEL1zwR9.jpg",
     "title": "KME ELEKTRONIKA NEVO-SKY JET OBD 4 CYL",
@@ -1156,7 +1156,7 @@
   },
   {
     "id": "145",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "KME ELEKTRONIKA NEVO-SKY MAX  4 CYL",
     "image": "products/August2024/Akv6mDkNtUmmvqbN9ktC.jpg",
     "title": "KME ELEKTRONIKA NEVO-SKY MAX  4 CYL",
@@ -1167,7 +1167,7 @@
   },
   {
     "id": "146",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "KME ELEKTRONIKA NEVO-SKY JET  8 CYL",
     "image": "products/August2024/mbBwAjEzN8RiwYIQWSYK.jpg",
     "title": "KME ELEKTRONIKA NEVO-SKY JET  8 CYL",
@@ -1178,7 +1178,7 @@
   },
   {
     "id": "147",
-    "product_category_id": "4",
+    "product_category_id": "elektronika",
     "name": "KME ELEKTRONIKA NEVO-SKY JET  6 CYL",
     "image": "products/August2024/GvEfvaCzYacqafJNX5Dv.jpg",
     "title": "KME ELEKTRONIKA NEVO-SKY JET  6 CYL",
@@ -1189,7 +1189,7 @@
   },
   {
     "id": "148",
-    "product_category_id": "19",
+    "product_category_id": "filter",
     "name": "многоразовый фильтр",
     "image": "products/August2024/JtyDUjC594uY1KpgkZ9T.jpg",
     "title": "многоразовый фильтр stag",
@@ -1200,7 +1200,7 @@
   },
   {
     "id": "149",
-    "product_category_id": "17",
+    "product_category_id": "forsunka",
     "name": "Форсунка AC W-031 6-CYL",
     "image": "products/December2024/uBrlOeikdPLDtqwSMOf4.jpg",
     "title": "Форсунка AC W-031 6-CYL",
@@ -1211,7 +1211,7 @@
   },
   {
     "id": "150",
-    "product_category_id": "17",
+    "product_category_id": "forsunka",
     "name": "Форсунка AC W-031 3-CYL",
     "image": "products/August2024/WbGBOi06gweIMREs6910.jpeg",
     "title": "Форсунка AC W-031 3-CYL",

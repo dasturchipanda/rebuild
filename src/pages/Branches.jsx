@@ -1,8 +1,6 @@
 import React, { useState, useEffect } from "react";
 import databranches from "../../datas/branches.json";
 import regionsdata from "../../datas/regions.json";
-import defaultimage from "../../public/images/default-content-image.png";
-import mapimage from "../../public/images/map.png";
 
 const calculateDistance = (lat1, lng1, lat2, lng2) => {
   const toRadians = (degrees) => (degrees * Math.PI) / 180;
@@ -23,6 +21,9 @@ const calculateDistance = (lat1, lng1, lat2, lng2) => {
 };
 
 const Branches = () => {
+  const defaultimage = "/images/default-content-image.png";
+  const mapimage = "/images/map.png";
+
   const regions = regionsdata;
   const branches = databranches;
   const [selectedRegion, setSelectedRegion] = useState(null); // Tanlangan region

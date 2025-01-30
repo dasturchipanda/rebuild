@@ -1,0 +1,85 @@
+[
+  {
+    "id": "1",
+    "catagory": "shlang",
+    "name": "Шланг",
+    "image": "product-categories/March2024/5HjvFpaXuqByYiKTlrIA.png"
+  },
+  {
+    "id": "2",
+    "catagory": "reductor",
+    "name": "Редуктор",
+    "image": "product-categories/March2024/5HjvFpaXuqByYiKTlrIA.png"
+
+  },
+  {
+    "id": "3",
+    "catagory": "elektronika",
+    "name": "Электроника",
+    "image": "product-categories/March2024/5HjvFpaXuqByYiKTlrIA.png"
+
+  },
+  {
+    "id": "4",
+    "catagory": "filter",
+    "name": "Филтры",
+    "image": "product-categories/March2024/5HjvFpaXuqByYiKTlrIA.png"
+
+  },
+  {
+    "id": "5",
+    "catagory": "propanballon",
+    "name": "баллон пропан",
+    "image": "product-categories/March2024/5HjvFpaXuqByYiKTlrIA.png"
+
+  },
+  {
+    "id": "6",
+    "catagory": "metanballon",
+    "name": "баллон метан",
+    "image": "product-categories/March2024/5HjvFpaXuqByYiKTlrIA.png"
+
+  },
+  {
+    "id": "7",
+    "catagory": "forsunka",
+    "name": "Форсунка",
+    "image": "product-categories/March2024/5HjvFpaXuqByYiKTlrIA.png"
+
+  },
+  {
+    "id": "8",
+    "catagory": "zaprashniy",
+    "name": "Запрашный",
+    "image": "product-categories/March2024/5HjvFpaXuqByYiKTlrIA.png"
+
+  },
+  {
+    "id": "9",
+    "catagory": "kran",
+    "name": "кран для газового баллона",
+    "image": "product-categories/March2024/5HjvFpaXuqByYiKTlrIA.png"
+
+  },
+  {
+    "id": "10",
+    "catagory": "fiting",
+    "name": "Фитинг",
+    "image": "product-categories/March2024/5HjvFpaXuqByYiKTlrIA.png"
+
+  },
+  {
+    "id": "11",
+    "catagory": "multklapin",
+    "name": "мультиклапаны",
+    "image": "product-categories/March2024/5HjvFpaXuqByYiKTlrIA.png"
+
+  },
+  {
+    "id": "12",
+    "catagory": "pastafka",
+    "name": "Пастафка",
+    "image": "product-categories/March2024/5HjvFpaXuqByYiKTlrIA.png"
+
+  }
+]

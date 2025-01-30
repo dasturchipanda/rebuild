@@ -3,7 +3,6 @@ import logo from "../../public/images/EasyGasLogo.png";
 import { IoSearchOutline } from "react-icons/io5";
 import brands from "../../datas/brands.json";
 import cars from "../../datas/cars.json";
-import products from "../../datas/products.json";
 import sets from "../../datas/collections.json";
 import { NavLink } from "react-router-dom";
 import { IoCheckmarkDoneSharp } from "react-icons/io5";
