@@ -99,7 +99,7 @@ const Cars = () => {
           <div className="container mx-auto px-1">
             {selectedCar ? (
               <>
-                <div className="selected-car-info h-[230px] w-100 bg-white rounded-lg h-100 w-100">
+                <div className="selected-car-info flex justify-center items-center h-[230px] w-100 bg-white rounded-lg h-100 w-100">
                   <div className="selected-car-toppings flex justify-between items-center px-4 ">
                     <h3 className="selected-car-topping-title">
                       {selectedCar.name}
@@ -107,7 +107,7 @@ const Cars = () => {
                     <img src={logo} alt="photo error" width={35} height={35} />
                   </div>
                   <img
-                    className="pt-3 px-3"
+                    className="px-3"
                     src={`http://admin.stag.uz/storage/${selectedCar.image}`}
                     alt="photo error"
                   />
