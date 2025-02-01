@@ -21,6 +21,9 @@ const calculateDistance = (lat1, lng1, lat2, lng2) => {
 };
 
 const Branches = () => {
+
+  try {
+    
   const defaultimage = "/images/default-content-image.png";
   const mapimage = "/images/map.png";
 
@@ -247,6 +250,11 @@ const Branches = () => {
       </div>
     </div>
   );
+  } catch (error) {
+    console.error("Branches komponentida xatolik:", error);
+    return <div>Xatolik yuz berdi. Iltimos, sahifani qaytadan yangilan yoki o'zingizga kerakli bolgan malumotlarni <a target="_blank"  href="https://t.me/staguz">telegram</a> kanalimizdan olishingiz ham mumkin!</div>;
+  }
+
 };
 
 export default Branches;

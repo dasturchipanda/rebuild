@@ -43,7 +43,7 @@ const Profile = () => {
               <div className="feedback pb-2 flex items-center justify-between">
                 <div className="flex">
                   <PiChatCircleTextLight className="person-icon " />
-                  <p className="m-0 p-0 ms-2">Связаться с нами</p>
+                  <a href="https://t.me/staguz" target="_blank"   className="m-0 p-0 ms-2">Связаться с нами</a>
                 </div>
                 <IoIosArrowForward className="icon-arrow" />
               </div>
@@ -51,7 +51,7 @@ const Profile = () => {
               <div className="feedback pt-2 flex items-center justify-between">
                 <div className="flex">
                   <PiTelegramLogoLight className="person-icon " />
-                  <p className="m-0 p-0 ms-2">Связаться с нами</p>
+                  <a href="https://t.me/stag_service" target="_blank" className="m-0 p-0 ms-2">Написать админу</a>
                 </div>
                 <IoIosArrowForward className="icon-arrow" />
               </div>

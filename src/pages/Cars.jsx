@@ -139,7 +139,7 @@ const Cars = () => {
                             <div className="set">
                               <div>
                                 <h3 className="setheading">Standart</h3>
-                                <p className="price">
+                                <p className="price ">
                                   $629{" "}
                                   <span className="priceafter">/permantly</span>
                                 </p>
@@ -216,12 +216,11 @@ const Cars = () => {
                           );
                         }
                       })}
-                      <div className="custom-set bg-white rounded-lg px-3 my-[20px]">
+                      <div className="custom-set bg-white rounded-lg px-3 pb-1 my-[20px]">
                         <h2 className="default-text py-3">
-                          O'zingizga mos setni topa olmadingizmi? Hammasini
-                          o'zingiz istaganingizday tering
+                          O'zingizga mos setni topa olmadingizmi?
                         </h2>
-                        <button className="buybtn">Products</button>
+                        <NavLink to={'/easygas'} className="buybtn ">Products</NavLink>
                       </div>
                     </>
                   ) : (
@@ -278,8 +277,7 @@ const Cars = () => {
                       })}
                       <div className="custom-set bg-white rounded-lg px-3 my-[20px]">
                         <h2 className="default-text py-3">
-                          O'zingizga mos setni topa olmadingizmi? Hammasini
-                          o'zingiz istaganingizday tering
+                          O'zingizga mos setni topa olmadingizmi?
                         </h2>
                         <button className="buybtn">Products</button>
                       </div>

@@ -10,6 +10,7 @@ import Easygas from "./pages/Easygas";
 import Branches from "./pages/Branches";
 import Profile from "./pages/Profile";
 import Products from "./pages/Products";
+import ErrorBoundary from "./components/ErrorBoundary";
 
 function App() {
   return (
@@ -22,8 +23,10 @@ function App() {
             <Route index element={<Home />} /> {/* Bosh sahifa */}
             <Route path="/news" element={<News/>}/>
             <Route path="/cars" element={<Cars/>}/>
+            
             <Route path="/easygas" element={<Easygas/>}/>
-            <Route path="/branches" element={<Branches/>}/>
+            
+            <Route path="/branches" element={<ErrorBoundary><Branches/></ErrorBoundary>}/>
             <Route path="/profile" element={<Profile/>}/>
             <Route path="/products" element={<Products/>}/>
           </Route>
